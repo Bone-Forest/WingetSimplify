@@ -22,7 +22,6 @@ int main()
 
 		cin >> userInput;
 
-
 		if (userInput == "s" || userInput == "S" || userInput == "搜索")
 		{
 			cout << "请输入要查找的软件名/ID:" << endl;
